@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecyclerView_Example</string>
+    <string name="agregar_contacto">Agregar contacto</string>
+    <string name="mostrar_lista">Mostrar Lista</string>
+    <string name="desarrollador">Desarrollador</string>
+    <string name="name">Contactos</string>
+    <string name="ingrese_el_nombre">Ingrese el nombre</string>
+    <string name="ingrese_el_n_mero_de_telef_no">Ingrese el número de telefóno</string>
+    <string name="registrar">Registrar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_contacto">Nombre contacto</string>
+    <string name="numeroTel">#</string>
+    <string name="tel">Tel.</string>
+    <string name="introducci_n_a_recyclerview">Introducción a RecyclerView</string>
+    <string name="nombre_est">Franklin Abelino Espinoza Otero</string>
+    <string name="email_est">eo17i04001@usonsonate.edu.sv</string>
+    <string name="ver">V 1.0</string>
+</resources>
